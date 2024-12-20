@@ -1,0 +1,5 @@
+root:
+  child1:
+    значение: value1
+  child2:
+    значение: value2
